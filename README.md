@@ -2,7 +2,7 @@
 
 I am Jack's complete lack of surprise.
 
-<img align="right" width="250" src="avatar.png">
+<img align="right" width="250" src="avatar.jpg">
 
 ## Bio
 
