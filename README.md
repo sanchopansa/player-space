@@ -1,19 +1,15 @@
-(To join [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/) see [Getting Started](Getting-Started.md).)
+# VG (@sanchopansa)
 
-# Name (@github_id)
-
-optional tag-line
+I am Jack's complete lack of surprise.
 
 <img align="right" width="250" src="avatar.png">
 
 ## Bio
 
-optional bio
+Engineer/Investor
 
 ## Identities
-* [github](https://github.com/github_id)
-* [keybase](https://keybase.io/keybase_id)
-* [linkedin](https://www.linkedin.com/in/linkedin_id)
+* [github](https://github.com/sanchopansa)
 
 ## Roles
 * [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
